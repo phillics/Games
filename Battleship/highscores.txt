@@ -1,0 +1,9 @@
+Becca: Score: 72 AI level: 3
+Christian: Score: 63 AI level: 3
+David: Score: 47 AI level: 4
+Michael: Score: 81 AI level: 3
+Spencer: Score: 52 AI level: 4
+Spencer: Score: 60 AI level: 3
+Spencer: Score: 57 AI level: 3
+Christian: Score: 62 AI level: 0
+Christian: Score: 80 AI level: 4

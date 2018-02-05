@@ -1,0 +1,38 @@
+PLAYER
+90 91 92 93 94 
+83 84 85 86 
+40 41 42 
+52 53 54 
+60 61 
+
+          
+     O    
+  O   O   
+   O   O  
+    O   O 
+ O   O    
+  O   O   
+   OO  O  
+ O BBBB   
+CCCCCO    
+
+
+COMPUTER
+51 52 53 54 55 
+41 42 43 44 
+2 12 22 
+25 35 45 
+1 11 
+
+O D       
+  D       
+ ODO S    
+  O  S    
+ BBBBSO   
+ CCCCC    
+  O   O   
+   O      
+    O   O 
+          
+
+
